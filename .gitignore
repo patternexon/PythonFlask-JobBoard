@@ -55,6 +55,7 @@ instance/
 # pyenv
 .python-version
 .venv
+.jobenv
 
 # Editors
 .vscode
@@ -66,3 +67,5 @@ instance/
 # Virtualenv
 venv/
 .venv/
+jobenv/
+.jobenv/
